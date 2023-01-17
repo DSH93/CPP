@@ -1,0 +1,50 @@
+Red count: 0	Blue count: 0
+O	O	O	O	
+O	O	O	O	
+O	O	O	O	
+O	O	O	O	
+R:
+Red count: 0	Blue count: 0
+R	O	O	O	
+O	O	O	O	
+O	O	O	O	
+O	O	O	O	
+B:
+Red count: 0	Blue count: 2
+R	b	O	O	
+b	B	O	O	
+O	O	O	O	
+O	O	O	O	
+R:
+Red count: 2	Blue count: 2
+R	b	O	O	
+b	B	r	O	
+O	r	R	O	
+O	O	O	O	
+B:
+Red count: 2	Blue count: 4
+R	b	O	O	
+b	B	r	O	
+O	r	R	b	
+O	O	b	B	
+R:
+R:
+R:
+Red count: 1	Blue count: 3
+R	b	O	O	
+X	B	r	O	
+R	X	R	b	
+O	X	b	B	
+B:
+Red count: 1	Blue count: 3
+R	b	O	O	
+X	B	r	O	
+R	X	R	b	
+B	X	b	B	
+R:
+Red count: 1	Blue count: 3
+R	b	r	R	
+X	B	X	X	
+R	X	R	b	
+B	X	b	B	
+Blue won

@@ -1,0 +1,3 @@
+C:/Users/Dor Shukrun/CLionProjects/Alchemist/cmake-build-debug/CMakeFiles/Alchemist.dir
+C:/Users/Dor Shukrun/CLionProjects/Alchemist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dor Shukrun/CLionProjects/Alchemist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

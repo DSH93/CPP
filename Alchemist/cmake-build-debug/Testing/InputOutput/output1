@@ -1,0 +1,240 @@
+Red count: 0	Blue count: 0
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+R:
+Red count: 0	Blue count: 0
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	R	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+B:
+Red count: 0	Blue count: 2
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	R	b	O	O	O	
+O	O	O	b	B	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+R:
+Red count: 2	Blue count: 2
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+B:
+Red count: 2	Blue count: 4
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+O	O	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+R:
+Red count: 4	Blue count: 4
+O	O	O	O	O	O	O	O	
+O	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	O	O	
+O	O	O	O	O	O	O	O	
+O	O	O	O	O	O	O	O	
+B:
+Red count: 4	Blue count: 6
+O	O	O	O	O	O	O	O	
+O	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+O	O	O	O	O	b	B	O	
+O	O	O	O	O	O	O	O	
+R:
+Red count: 6	Blue count: 6
+O	O	O	O	O	O	O	O	
+O	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+O	O	O	O	O	b	B	r	
+O	O	O	O	O	O	r	R	
+B:
+Red count: 6	Blue count: 8
+B	b	O	O	O	O	O	O	
+b	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+O	O	O	O	O	b	B	r	
+O	O	O	O	O	O	r	R	
+R:
+Red count: 6	Blue count: 8
+B	b	O	O	O	O	O	R	
+b	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+O	O	O	O	O	b	B	r	
+O	O	O	O	O	O	r	R	
+B:
+Red count: 6	Blue count: 8
+B	b	O	O	O	O	O	R	
+b	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+O	O	O	O	O	b	B	r	
+B	O	O	O	O	O	r	R	
+R:
+Red count: 8	Blue count: 8
+B	b	O	O	O	O	O	R	
+b	R	r	O	O	O	O	O	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+r	R	O	O	O	b	B	r	
+B	r	O	O	O	O	r	R	
+B:
+Red count: 8	Blue count: 10
+B	b	O	O	O	O	b	R	
+b	R	r	O	O	O	B	b	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	O	b	B	r	O	O	
+O	O	O	O	r	R	b	O	
+r	R	O	O	O	b	B	r	
+B	r	O	O	O	O	r	R	
+R:
+Red count: 9	Blue count: 9
+B	b	O	O	O	O	b	R	
+b	R	r	O	O	O	B	b	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	X	X	B	r	O	O	
+O	X	R	r	r	R	b	O	
+r	R	X	O	O	b	B	r	
+B	r	O	O	O	O	r	R	
+B:
+Red count: 9	Blue count: 12
+B	b	O	O	O	O	b	R	
+b	R	r	O	O	O	B	b	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	X	X	B	r	O	O	
+O	X	R	r	r	R	b	O	
+r	R	X	b	b	b	B	r	
+B	r	b	B	O	O	r	R	
+R:
+Red count: 9	Blue count: 10
+B	b	O	O	O	O	b	R	
+b	R	r	O	O	O	B	b	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	X	X	B	r	O	O	
+O	X	R	r	r	R	b	O	
+r	R	X	b	X	X	B	r	
+B	r	b	B	r	R	X	R	
+B:
+Red count: 9	Blue count: 10
+B	b	O	O	B	X	b	R	
+b	R	r	X	O	X	B	b	
+O	r	B	b	O	O	O	O	
+O	O	b	R	b	O	O	O	
+O	O	X	X	B	r	O	O	
+O	X	R	r	r	R	b	O	
+r	R	X	b	X	X	B	r	
+B	r	b	B	r	R	X	R	
+R:
+Red count: 11	Blue count: 10
+B	b	O	O	B	X	b	R	
+b	R	r	X	O	X	B	b	
+O	r	B	b	O	O	r	r	
+O	O	b	R	b	O	O	R	
+O	O	X	X	B	r	X	O	
+O	X	R	r	r	R	b	O	
+r	R	X	b	X	X	B	r	
+B	r	b	B	r	R	X	R	
+B:
+Red count: 10	Blue count: 12
+B	b	O	O	B	X	b	R	
+b	R	r	X	O	X	B	b	
+b	X	B	b	O	O	r	r	
+B	X	b	R	b	O	O	R	
+O	b	X	X	B	r	X	O	
+O	X	R	r	r	R	b	O	
+r	R	X	b	X	X	B	r	
+B	r	b	B	r	R	X	R	
+R:
+Red count: 10	Blue count: 11
+B	b	O	O	B	X	b	R	
+b	R	r	X	O	X	B	b	
+b	X	B	b	O	O	r	r	
+B	X	b	R	b	O	O	R	
+r	X	X	X	B	r	X	O	
+R	X	R	r	r	R	b	O	
+X	R	X	b	X	X	B	r	
+B	r	b	B	r	R	X	R	
+B:
+Red count: 9	Blue count: 11
+B	b	O	O	B	X	b	R	
+b	R	r	X	O	X	B	b	
+b	X	B	b	O	O	r	r	
+B	X	b	R	b	O	O	R	
+r	X	X	X	B	r	X	b	
+R	X	R	r	r	R	X	B	
+X	R	X	b	X	X	B	X	
+B	r	b	B	r	R	X	R	
+R:
+Red count: 9	Blue count: 10
+B	X	R	r	B	X	b	R	
+b	R	X	X	O	X	B	b	
+b	X	B	b	O	O	r	r	
+B	X	b	R	b	O	O	R	
+r	X	X	X	B	r	X	b	
+R	X	R	r	r	R	X	B	
+X	R	X	b	X	X	B	X	
+B	r	b	B	r	R	X	R	
+B:
+Red count: 9	Blue count: 8
+B	X	R	r	B	X	b	R	
+b	R	X	X	X	X	B	b	
+b	X	B	X	B	X	r	r	
+B	X	b	R	X	X	O	R	
+r	X	X	X	B	r	X	b	
+R	X	R	r	r	R	X	B	
+X	R	X	b	X	X	B	X	
+B	r	b	B	r	R	X	R	
+R:
+Red count: 6	Blue count: 7
+B	X	R	r	B	X	b	R	
+b	R	X	X	X	X	B	b	
+b	X	B	X	B	X	X	X	
+B	X	b	R	X	X	R	R	
+r	X	X	X	B	X	X	X	
+R	X	R	r	r	R	X	B	
+X	R	X	b	X	X	B	X	
+B	r	b	B	r	R	X	R	
+Blue won

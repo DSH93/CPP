@@ -1,0 +1,13 @@
+"C:\Users\Dor Shukrun\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Dor Shukrun/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\Dor Shukrun\CLionProjects\HW3" -B "C:\Users\Dor Shukrun\CLionProjects\HW3\cmake-build-debug"
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Queue.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: HW3
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
