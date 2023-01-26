@@ -1,0 +1,5 @@
+Lelylaan:	Heemstedestraat, Zuid, Amstel, Spaklerweg
+Heemstedestraat:	Lelylaan, Zuid, Amstel, Spaklerweg
+Zuid:	
+Amstel:	Lelylaan, Heemstedestraat, Zuid, Spaklerweg
+Spaklerweg:	Lelylaan, Heemstedestraat, Zuid, Amstel

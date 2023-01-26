@@ -1,0 +1,3 @@
+C:/Users/Dor Shukrun/CLionProjects/NeverlandCity/cmake-build-debug/CMakeFiles/NeverlandCity.dir
+C:/Users/Dor Shukrun/CLionProjects/NeverlandCity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dor Shukrun/CLionProjects/NeverlandCity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
